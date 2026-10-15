@@ -1,0 +1,3 @@
+# Independent font tooling; does not alter the SQLCipher dependency chain.
+UnityPy==1.25.4
+fonttools==4.67.0
