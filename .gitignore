@@ -1,20 +1,29 @@
+#system and ide files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+#virtual environment
+.venv/
+venv/
+.env
+
+#py cache
+__pycache__/
+*.py[cod]
+
+#binary and data
 *.db
 *.sqlite
 *.bytes
 *.bin
+
+#other
 work/
 libs/
 phonedata/
 update_work/
 ExcelDB*.db*
 TableCatalog*.bytes
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.env
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
-desktop.ini
